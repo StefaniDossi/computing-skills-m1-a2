@@ -10,6 +10,6 @@ The assessment focuses on:
 ### Overview Repository Content
 |File Name|Short Description|File Type|
 |-|-|-|
-|:notebook:[Python Notebok](https://github.com/StefaniDossi/computing-skills-m1-a1/blob/main/database_planning.md)||.md|
-|:clipboard:[Report](https://github.com/StefaniDossi/computing-skills-m1-a1/blob/main/database_setup.sql)||.sql|
+|:notebook:[Python Notebok](https://github.com/StefaniDossi/computing-skills-m1-a2/blob/main/genetic_annotation.ipynb)|Python Code|.md|
+|:clipboard:[Report](https://github.com/StefaniDossi/computing-skills-m1-a2/blob/main/report_genetic_annotation.pdf)|Short Report|.sql|
 
